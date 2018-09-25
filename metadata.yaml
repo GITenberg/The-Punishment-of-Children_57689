@@ -1,5 +1,8 @@
 _repo: The-Punishment-of-Children_57689
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57689-h/images/cover.jpg
 creator:
   author:
     agent_name: Adler, Felix
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25008
     wikipedia: http://en.wikipedia.org/wiki/Felix_Adler_%28Society_for_Ethical_Culture%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57689#The-Punishment-of-Children
 gutenberg_issued: '2018-08-14'
 gutenberg_type: Text
 identifiers:
